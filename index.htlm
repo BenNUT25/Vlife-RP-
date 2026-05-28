@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Règlement Vlife RP</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #ffffff;
+        color: #2b2b2b;
+    }
+
+    header {
+        background: linear-gradient(90deg, #6a0dad, #9b30ff);
+        color: white;
+        text-align: center;
+        padding: 30px 20px;
+        font-size: 28px;
+        font-weight: bold;
+        letter-spacing: 1px;
+    }
+
+    section {
+        max-width: 1000px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    h2 {
+        color: #6a0dad;
+        border-left: 5px solid #9b30ff;
+        padding-left: 10px;
+        margin-top: 40px;
+    }
+
+    .card {
+        background: #f7f2ff;
+        border-left: 4px solid #9b30ff;
+        padding: 15px;
+        margin: 10px 0;
+        border-radius: 8px;
+    }
+
+    details {
+        background: #f3e9ff;
+        padding: 10px;
+        margin: 10px 0;
+        border-radius: 8px;
+    }
+
+    summary {
+        font-weight: bold;
+        cursor: pointer;
+        color: #6a0dad;
+    }
+</style>
+</head>
+
+<body>
+
+<header>
+    RÈGLEMENT VLIFE RP
+</header>
+
+<section>
+
+<h2>📘 Lexique à connaître</h2>
+
+<div class="card">
+<b>PowerGaming</b> : Actions irréalistes ou forcer une scène sans laisser de chance RP.
+</div>
+
+<div class="card">
+<b>Metagaming</b> : Utiliser des infos HRP en RP (Discord, Twitch, etc.).
+</div>
+
+<div class="card">
+<b>Mass RP</b> : Toujours considérer la ville comme vivante (PNJ inclus).
+</div>
+
+<div class="card">
+<b>Fear RP</b> : Jouer la peur de son personnage de façon réaliste.
+</div>
+
+<div class="card">
+<b>Carkill</b> : Écraser volontairement un joueur → interdit.
+</div>
+
+<div class="card">
+<b>Freekill</b> : Tuer sans raison RP valable → interdit.
+</div>
+
+<div class="card">
+<b>Copbait</b> : Provoquer la police sans raison RP → interdit.
+</div>
+
+<h2>📗 Règlement de base</h2>
+
+<details><summary>Cohérence RP</summary>
+Respect de l’histoire du personnage + scènes logiques et jouées correctement.
+</details>
+
+<details><summary>Coma</summary>
+- Pas de communication en coma<br>
+- Retour scène interdit (15 min minimum)<br>
+- Perte de mémoire selon réanimation<br>
+- Interdiction de bloquer EMS
+</details>
+
+<details><summary>Courtoisie</summary>
+Respect obligatoire, insultes OOC interdites, tickets staff uniquement.
+</details>
+
+<details><summary>Noms interdits</summary>
+Noms de célébrités, fictifs ou humoristiques interdits.
+</details>
+
+<details><summary>Zone Safe</summary>
+Interdiction d’activité illégale ou fuite en zone safe.
+</details>
+
+<details><summary>Packs graphiques</summary>
+Mods avantageux interdits (FPS boost abusif, no night, etc.).
+</details>
+
+<h2>📕 Règlement illégal</h2>
+
+<details><summary>Loot</summary>
+Pas de vol excessif (argent, armes, items essentiels).
+</details>
+
+<details><summary>Prises d’otage</summary>
+Rançons limitées selon rangs + interdiction de tuer après.
+</details>
+
+<details><summary>Laboratoires / points chauds</summary>
+Règles strictes de contrôle, attaques limitées par groupes.
+</details>
+
+<details><summary>Braquages</summary>
+Limites de joueurs et cooldown obligatoires selon type.
+</details>
+
+<details><summary>Armes</summary>
+Progression des armes selon les semaines + restrictions.
+</details>
+
+<h2>📙 Règlement EMS</h2>
+
+<div class="card">
+- Interdiction de refuser un soin injustifié<br>
+- Interdiction de revendre équipements EMS<br>
+- Obligation de RP médical sérieux
+</div>
+
+<h2>📒 Règlement Police</h2>
+
+<div class="card">
+- Fouilles uniquement justifiées RP<br>
+- Garde à vue obligatoire RP<br>
+- Interdiction de win RP police<br>
+- Interventions QG uniquement autorisées staff
+</div>
+
+<h2>📓 Règlement Mécano</h2>
+
+<div class="card">
+- Interdiction d’abus de réparation gratuite<br>
+- Interdiction de full perf sans accord<br>
+- Interdiction d’agir hors service<br>
+- Interdiction de modifier sans accord propriétaire
+</div>
+
+</section>
+
+</body>
+</html>
